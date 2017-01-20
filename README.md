@@ -1,2 +1,3 @@
 # Hello-World
-Test
+
+This thread is a prototype file for testing purposes only.
